@@ -9,3 +9,4 @@
 >>>>>>> Stashed changes
 'test8
 ff
+'made changes
