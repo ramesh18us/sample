@@ -8,5 +8,6 @@
 'test4
 >>>>>>> Stashed changes
 'test8
-ff
+'ff
 'made changes
+'another change
